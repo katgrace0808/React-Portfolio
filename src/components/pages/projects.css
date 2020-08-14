@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(97, 161, 165);
+ 
+}
+
+.col-md-8 {
+    background-color: rgb(97, 161, 165);
+}
+
+#border {
+    margin-top: 25px;
+    border: 10px;
+    border-color: teal;
+}
