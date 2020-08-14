@@ -11,13 +11,17 @@ function Navbar(props) {
             </button>
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
-                    <a
+                    <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+                        Home
+                    </Link>
+
+                    {/* <a
                         href="#home"
                         onClick={() => props.handlePageChange("Home")}
                         className={props.currentPage === "Home" ? "nav-link active" : "nav-link"}
                     >
                         Home
-                    </a>
+                    </a> */}
                     <Link
                         to="/about"
                         className={location.pathname === "/about" ? "nav-link active" : "nav-link"}

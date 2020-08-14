@@ -6,7 +6,7 @@ const Home = () => (
     <p>
       Sparse page with links to About, Contact, and Projects pages.
     </p>
-    <img src= "../images/informatics.jpg"></img>
+    <img src= {require("../images/informatics.jpg")} alt= "Healthcare IT" ></img>
   </div>
 );
 
