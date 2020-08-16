@@ -30,7 +30,7 @@ const Contact = () => (
       </section>
       <section className="row">
         <article className="col-md-8">
-          <button type="button" className="btn btn-primary btn-custom">Submit</button>
+          <button type="button" className="btn btn-dark btn-custom">Submit</button>
         </article>
       </section>
     </form>
