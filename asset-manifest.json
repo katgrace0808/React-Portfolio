@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ffce9130.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.177883a4.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.177883a4.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.ddc782c4.chunk.js": "/react-portfolio/static/js/2.ddc782c4.chunk.js",
+    "static/js/2.ddc782c4.chunk.js.map": "/react-portfolio/static/js/2.ddc782c4.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.013be0289827a9e3ff3a7e238242a885.js": "/react-portfolio/precache-manifest.013be0289827a9e3ff3a7e238242a885.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.ffce9130.chunk.css.map": "/react-portfolio/static/css/main.ffce9130.chunk.css.map",
+    "static/js/2.ddc782c4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ddc782c4.chunk.js.LICENSE.txt",
+    "static/media/Food-Truck-screenshot.PNG": "/react-portfolio/static/media/Food-Truck-screenshot.3c7a8e6a.PNG",
+    "static/media/deskpc.jpg": "/react-portfolio/static/media/deskpc.9890b40f.jpg",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.d61aa51f.jpg",
+    "static/media/informatics.jpg": "/react-portfolio/static/media/informatics.1ce92d6a.jpg",
+    "static/media/r2d2.jpg": "/react-portfolio/static/media/r2d2.56885f26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.ddc782c4.chunk.js",
+    "static/css/main.ffce9130.chunk.css",
+    "static/js/main.177883a4.chunk.js"
+  ]
+}
