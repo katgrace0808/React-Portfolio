@@ -1,7 +1,8 @@
 import React from "react";
+import "./about.css"
 
 const About = () => (
-  <div>
+  <div className="about-page">
     <section className="row">
       <header className="col-sm-7">
         <h1 id="aboutme">About Me</h1>
