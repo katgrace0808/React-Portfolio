@@ -12,7 +12,7 @@ function Footer() {
         <strong className="footer-dots"> · </strong>
         <a href="https://github.com/katgrace0808" class="fab fa-github"> </a>
         <strong className="footer-dots"> · </strong>
-        <a href="assets/Kathryn-Teall-Resume.pdf" className="footer-resume"> Resume </a>
+        <a href="./assets/Kathryn-Teall-Resume.pdf" className="footer-resume"> Resume </a>
         <strong className="footer-dots"> · </strong>
         <a href="tel:+12062454562" className="footer-phone"> Phone: (206) 245-4562 </a>
       </footer>  
